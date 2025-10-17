@@ -28,3 +28,8 @@ Aplicação web para criação de senhas seguras, personalizáveis por tamanho e
 3. Selecione as opções desejadas e clique em "Gerar" para obter sua senha segura.
 
 ---
+## Alterações e melhorias
+
+- Código JavaScript melhorado com validação para o tamanho da senha (entre 6 e 32 caracteres).
+- Visualização do resultado aprimorada no CSS para diferencial visual.
+- Funcionalidade extra: clique no resultado para copiar a senha automaticamente.
